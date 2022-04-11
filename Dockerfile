@@ -1,2 +1,2 @@
 From tomcat:9
-Copy target/*.war /usr/local/tomcat/webapps/calculator.war
+Copy target/*.jar /usr/local/tomcat/webapps/calculator.jar
